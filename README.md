@@ -4,6 +4,11 @@
 - 👯 I’m looking to collaborate on Public Learning
 - 🤔 I’m looking for help with System Design
 - 📫 How to reach me: e-mail(mailto:shreyaskodte@gmail.com)
+
+This is my pet from codedex; a symbol of my consistency
+- ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Leowo/30-nites-of-code)  
+  ![@Leowo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Leowo)
 <!--
 **Hydra-Slayer/Hydra-Slayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
