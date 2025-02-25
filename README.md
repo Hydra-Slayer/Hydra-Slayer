@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Discord Bot
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Public Learning
+- 🤔 I’m looking for help with System Design
+- 📫 How to reach me: e-mail(mailto:shreyaskodte@gmail.com)
 <!--
 **Hydra-Slayer/Hydra-Slayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
